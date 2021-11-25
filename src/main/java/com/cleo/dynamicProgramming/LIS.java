@@ -17,5 +17,6 @@ public class LIS {
             //if(longest_increasing_subsequence(a,n-1)+longest_increasing_subsequence(a,n))
 
         }
+        return -1;
     }
 }
