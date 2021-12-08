@@ -1,5 +1,6 @@
 package com.cleo.modernJava.interfaces;
 
+@FunctionalInterface
 public interface Default {
 
     String name = "abcdef";

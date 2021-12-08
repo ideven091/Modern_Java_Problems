@@ -17,7 +17,7 @@ public class DefaultClass implements Default{
 
     public static void main(String[] args) {
         DefaultClass defaultClass = new DefaultClass();
-        defaultClass.defaultMethod(10);
+        System.out.println( defaultClass.defaultMethod(10));
         System.out.println(defaultClass.getName());
     }
 }

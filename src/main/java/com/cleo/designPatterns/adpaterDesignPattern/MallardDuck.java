@@ -1,4 +1,4 @@
-package com.cleo.designPatterns.behaviourDesignPattern;
+package com.cleo.designPatterns.adpaterDesignPattern;
 
 public class MallardDuck extends Duck{
 
